@@ -10,7 +10,7 @@ import transactions from "./data/transaction.json";
 import { Profile } from "./components/Profile/Profile.jsx";
 import { Statistics } from "./components/Statistics/Statistics.jsx";
 import { FriendList } from "./components/FriendList/FriendList.jsx";
-import { TransactionHistory } from "./components/TransactionHistory/TransactionHistory";
+import { TransactionHistory } from "./components/TransactionHistory/TransactionHistory.jsx";
 
 function App() {
   return (
